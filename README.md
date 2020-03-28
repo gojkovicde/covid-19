@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/gojkovicde%2Fcovid-19/master?filepath=stats.ipynb)
